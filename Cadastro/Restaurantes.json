@@ -1,0 +1,34 @@
+[
+    {
+        "nome_restaurante": "Cowtelo",
+        "localizacao_restaurante": [
+            -8.1734879,
+            -34.9896724
+        ],
+        "n_pedidos_restaurante": 0
+    },
+    {
+        "nome_restaurante": "QG da Pizza",
+        "localizacao_restaurante": [
+            -8.0596509,
+            -34.9330076
+        ],
+        "n_pedidos_restaurante": 0
+    },
+    {
+        "nome_restaurante": "Yugo Premium",
+        "localizacao_restaurante": [
+            -8.1232373,
+            -34.9037601
+        ],
+        "n_pedidos_restaurante": 0
+    },
+    {
+        "nome_restaurante": "Vi Doceria",
+        "localizacao_restaurante": [
+            -8.0712861,
+            -34.9204683
+        ],
+        "n_pedidos_restaurante": 0
+    }
+]
