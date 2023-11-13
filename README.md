@@ -16,9 +16,9 @@ O projeto foi realizado em 2023 e contou com a colaboração dos seguintes integ
 
 ## Ferramentas utilizadas
 
-| Python | Git | 
-| ------ | --- | 
-| [![Python](https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg)](https://www.python.org) | [![Git](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg)](https://git-scm.com) 
+|  Jupyter Notebook | Python | Git |
+|  ---------------- | ------ | --- |
+| [![Jupyter Notebook](https://jupyter.org/assets/homepage/main-logo.svg)](https://jupyter.org/) | [![Python](https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg)](https://www.python.org) | [![Git](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg)](https://git-scm.com) |
 
 ## Para ver funcionando
 
